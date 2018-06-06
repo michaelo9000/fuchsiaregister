@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAjFdRKXnsjEefzRgXXrVFeAAAAAACAAAAAAAQZgAAAAEAACAAAABRiCm56t4EyrcMtBvGxFmih3Hsd4e/WRYe/DY4JU6/jgAAAAAOgAAAAAIAACAAAACkCZt7g71oYbBjulfG6ZJYvTXedH90Vs3mX/WCkJH/IYAAAABGKHwuCTJKdL7na3TBl6qpR04AKecarYGklgtMVKjpuSzSOdgx0/0z0btxKZY1d+/Azqq1icX/NsdH0cMJ1LkI+94tpEeiW5Z043uVSsuYZsEHS3Wr8gTKPJNXkx4pQAXbIb4QjsiB6AfL//hF5yeMp/gENztLY/WxOt2L9aMjrEAAAADlBULKxrtnnNM7eTz1mqSpu1fXqR4v1jMDbBZIfYW1nbiVoncXr1kZzmTqb5QUdGmFaWgkmQ+TS9mOl09Apdyq</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>11/13/2015 16:41:32</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>11/13/2015 16:41:31</publishTime>
+    </File>
+    <File Include="fuchsiaRegister.csv">
+      <publishTime>06/11/2015 11:14:50</publishTime>
+    </File>
+    <File Include="mystyle.css">
+      <publishTime>09/11/2015 14:03:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/13/2015 16:41:42</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>11/09/2015 14:17:46</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>09/11/2015 13:49:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

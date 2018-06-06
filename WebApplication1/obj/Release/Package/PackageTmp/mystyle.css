@@ -1,0 +1,217 @@
+﻿body {
+    background-color:#925cc7;
+}
+
+.imageButton, #left, #right, #header{
+    border:2px outset #5c5cc7;
+}
+a {
+	transition-duration:1s;
+}
+a:link {
+	color:white;
+	text-decoration: none;
+}
+a:hover{
+	color:yellow;
+}
+/*Admin Div*/
+#admin {
+    position:fixed;
+    right:-312px;
+    top:104px;
+    width:300px;
+    height:157px;
+    background-color: #92c75c;
+    border:4px outset #5c5cc7;
+    transition-duration:1s;
+}
+#admin:hover {
+    right: 2px;
+}
+#p {
+    font-size:20px;
+    padding:2px;
+    background-color: #92c75c;
+    border:4px outset #5c5cc7;
+    border-right:none;
+    position: relative;
+    right: 79px;
+    top:-4px;
+    width:67px;
+}
+/*Admin Div Content*/
+#login {
+    position:relative;
+    top:-38px;
+    left:4px;
+    float: right;
+    width: 100%;
+    height:85px;
+}
+#userTextBox, #passTextBox{
+	position:relative;
+	top:-38px;
+    height:19px;
+    width:97.75%;
+    margin-bottom:5px;
+}
+#loginButton {
+    float: left;
+	top:-38px;
+	border-bottom-width:4px;
+	border-right-width:4px;
+}
+#logoutButton {
+    float: right;
+	top:-38px;
+	border-bottom-width:4px;
+}
+#loginButton, #logoutButton, #imageUpload, #csvUpload, #upload {
+	position:relative;
+	height:25px;
+    width:49%;
+	border-color:#5c5cc7;
+}
+#upload {
+    width:296px;
+	top:-22px;
+}
+#imageUpload, #csvUpload {
+	top:-16px;
+}
+#csvUpload {
+	float:right;
+}
+/*Header Box*/   
+#header {
+    z-index:1;
+    height: 89px;
+    background-color: #92c75c;
+    width: 99%;
+    position:fixed;
+    top:5px;
+    color:white;
+	box-shadow:5px 5px 5px black;
+}
+/*Center Div*/
+#errorBox {
+	background-color:#c75cc7;
+}
+#errorBox, #selectedBox {
+    border:2px inset #5c5cc7;
+}
+#nav {
+    text-align:center;
+    width:50%;
+    margin:auto;
+    position:relative;
+    top:-2px;
+	border:none;
+}
+#nav td {
+    width: 12.5%;
+    height:39.5px;
+    padding:0px;
+    }
+#Button1, #Button4, #Button5, #Button6, #Button3 {
+    width:100%;
+    height:39.5px;
+    margin:auto;
+	border-color:#5c5cc7;
+}
+.cursor {
+    cursor: pointer;
+}
+/*Left Div*/
+#left {
+    float: left;
+    width: 20%;
+    height:85px;
+}
+#DropDownList1 {
+    width: 100%;
+    height: 25px;
+    margin-bottom:4px;
+}
+#Button7, #Button2 {
+	width: 100%;
+    height: 27px;
+    margin-bottom:4px;
+	border-color:#5c5cc7;
+	border-bottom-width:4px;
+}
+#Button2 {
+	margin-bottom:0px;
+	border-bottom-width:2px;
+}
+/*Login Details*/
+#passLabel, #userLabel {
+    font-size: 0px;
+    z-index: 0;
+    position: fixed;
+    left:200px;
+    top:40px;
+}
+/*Grid View*/
+#main {
+    margin-top: 10%;
+}
+#main table {
+    width:100%;
+}
+#main td, th {
+    padding: 5px;
+}
+/*Help*/
+#literal {
+    position:fixed;
+    width: 100%;
+    top:0px;
+}
+.helpLabel {
+	position:absolute;
+    z-index:3;
+    display:block;
+    width:20px;
+    height:20px;
+	background-color:#c75cc7;
+	color:white;
+    text-align:center;
+    font-size:0px;
+    transition-duration:.5s;
+    border:2px outset #5c5cc7;
+    box-shadow:2px 2px 2px black;
+    padding:2px;
+}
+.helpLabel:hover {
+    font-size: 16px;
+    width: 200px;
+    height: 125px;
+    z-index:5;
+}
+img {
+    float: left;
+}
+#leftLabel {
+	left:21.25%;
+    top:10px;
+    z-index:4;
+}
+#rightLabel{
+	left:77%;
+    top:10px;
+    z-index:4;
+}
+#centerLabel {
+	left:23%;
+    top:60px;
+}
+#centerLabel2 {
+	left:75.25%;
+    top:10px;
+}
+#tableLabel {
+	top:136px;
+    left:14px;
+}

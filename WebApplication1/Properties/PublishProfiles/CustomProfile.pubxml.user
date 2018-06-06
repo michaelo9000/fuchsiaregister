@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdIMamAEn/0SlgaUqvU2DzwAAAAACAAAAAAAQZgAAAAEAACAAAABUIBdXz9o1Kia9GvuX+lpNg3GY5WuEYZbHb9774kIN4wAAAAAOgAAAAAIAACAAAACPzarF2nJ0bD2xur2jXv0KhtXP+e4alhxFXwdnDiedAxAAAAANWh/tyIk3hqZ7GS2bmsPWQAAAAIS5z1AbSWMWar0Od0PiTQrg9j5E8hYTJtDM/Am6pv+rF+CfLUYBktr26iIQGOUMbE+zRlCAqd960NF8GG0hOHI=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.nzfuchsia.co.nz</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>04/18/2018 18:05:24</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>04/18/2018 18:05:24</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>04/18/2018 17:42:04</publishTime>
+    </File>
+    <File Include="mystyle.css">
+      <publishTime>11/25/2015 11:43:37</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>04/18/2018 17:42:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/18/2018 18:05:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

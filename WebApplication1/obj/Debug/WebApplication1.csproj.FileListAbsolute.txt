@@ -1,0 +1,16 @@
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\beardie\WebApplication1\bin\WebApplication1.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\beardie\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\beardie\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\beardie\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\beardie\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Michael\Desktop\my things\beardie\WebApplication1\bin\WebApplication1.dll
+C:\Users\Michael\Desktop\my things\beardie\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Michael\Desktop\my things\beardie\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\my things\beardie\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Michael\Desktop\my things\beardie\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\micha\Documents\my things\beardie\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\micha\Documents\my things\beardie\WebApplication1\bin\WebApplication1.dll
+C:\Users\micha\Documents\my things\beardie\WebApplication1\bin\WebApplication1.pdb
+C:\Users\micha\Documents\my things\beardie\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\my things\beardie\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\micha\Documents\my things\beardie\WebApplication1\obj\Debug\WebApplication1.pdb
